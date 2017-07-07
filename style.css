@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	
+
 	margin: 0px;
 	padding: 0px;
 }
@@ -48,13 +48,13 @@ ul.topnav li a.active {background-color: #4CAF50;}
 ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 600px){
-    ul.topnav li.right, 
+    ul.topnav li.right,
     ul.topnav li {float: none;}
 }
 
 
 .total{
-	
+
 	border:solid #130584 2px;
 	display: block;
 	width:180px;
@@ -63,7 +63,7 @@ ul.topnav li.right {float: right;}
 	padding: 10px 10px;
 	position:absolute;
 	right:10px;
-	
+
 }
 
 .menu{
@@ -83,7 +83,7 @@ label {
   position: relative;
   background: rgb(189, 189, 189);
   border-radius: 30px;
-  
+
   transition: background-color 0.4s;
   -moz-transition: background-color 0.4s;
   -webkit-transition: background-color 0.4s;
@@ -123,19 +123,4 @@ input:not(:checked) ~ p:nth-of-type(2) {
 .content td{
 	padding-top: 100px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.kitaniboy{}
